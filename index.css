@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-image: url("images/table.png");
+    background-size:cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 20px;
+    color: rgb(238, 245, 239);
+}
+
+h1 {
+    color: goldenrod;
+}
+
+
+button {
+    background-color: goldenrod;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+    border: 2px solid rgb(5, 20, 5);
+    width: 150px;
+    color: rgb(5, 20, 5);
+}
+
+#message-el {
+    font-size: 22px;
+}
